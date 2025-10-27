@@ -20,4 +20,5 @@ Display a summary of total sales, profits and quantity for the current year and 
 ## Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-![Dashboard Preview](dashboard.png)
+![Sales Dashboard Preview](preview/Sales%20Dashboard.png)
+
