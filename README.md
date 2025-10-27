@@ -1,9 +1,9 @@
 # 📌 Overview 
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 # 📊 Features
-**KPI overview**<br> 
-Display a summary of total sales, profits and quantity for the current year and the previous year.
-**Sales Trends**<br>
+**KPI overview**
+Display a summary of total sales, profits and quantity for the current year and the previous year.<br>  
+**Sales Trends**
  - Present the data for each KPI on a monthly basis for both the current year and the previous year
 **Product Subcategory Comparison**<br>
  - Compare sales performance by different product subcategories for the current year and the previous year.
