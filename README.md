@@ -4,14 +4,14 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 **KPI overview**  
  - Display a summary of total sales, profits and quantity for the current year and the previous year.
 **Sales Trends**
- - Present the data for each KPI on a monthly basis for both the current year and the previous year
+ - Present the data for each KPI on a monthly basis for both the current year and the previous year.
 **Product Subcategory Comparison**<br>
  - Compare sales performance by different product subcategories for the current year and the previous year.
  - Include a comparison of sales with profit.
 **Weekly Trends for Sales & Profit**<br>
  - Present weekly sales and profit data for the current year.
  - Display the average weekly values.
- - Highlight weeks that are above and below the average to draw attention to sales & profit performance
+ - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 # 📈  Design & Interactivity 
 **Dashboard Dynamic**<br>
  - The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
